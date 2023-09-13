@@ -7,7 +7,7 @@ RUN apk --no-cache --virtual build-dependencies add \
         make \
         g++ \
         git \
-    && git clone https://github.com/openshift-cs/shifty-demo.git /opt/app-root/src \
+    && git clone https://github.com/hupiper/ostoy.git /opt/app-root/src \
     && cd /opt/app-root/src \
     && npm install \
     && npm run build --if-present \

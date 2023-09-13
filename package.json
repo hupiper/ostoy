@@ -3,8 +3,8 @@
 	"version": "1.6.0",
 	"description": "",
 	"keywords": [],
-	"homepage": "https://github.com/openshift-cs/ostoy",
-	"bugs": "https://github.com/openshift-cs/ostoy/issues",
+	"homepage": "https://github.com/hupiper/ostoy",
+	"bugs": "https://github.com/hupiper/ostoy/issues",
 	"license": "Apache-2.0",
 	"author": "OpenShift Team <community@openshift.com>",
 	"contributors": [
@@ -13,7 +13,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/openshift-cs/ostoy.git"
+		"url": "https://github.com/hupiper/ostoy.git"
 	},
 	"scripts": {
 		"start": "node app.js"

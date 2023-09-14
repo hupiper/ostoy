@@ -1,4 +1,4 @@
-FROM node:10-alpine AS build-env
+FROM node:16-alpine AS build-env
 
 MAINTAINER Will Gordon "wgordon@redhat.com"
 
